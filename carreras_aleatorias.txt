@@ -1,0 +1,384 @@
+Race: Fuji Speedway (Japan)
+Date: 2024-01-27
+Laps: 77
+Lap Distance (km): 4.563
+End Positions:
+1. Yuki Tsunoda
+2. Lance Stroll
+3. Carlos Sainz
+4. Lando Norris
+5. George Russell
+6. Kevin Magnussen
+7. Esteban Ocon
+8. Charles Leclerc
+9. Fernando Alonso
+10. Liam Lawson
+
+Race: Sakhir International Circuit (Bahrain)
+Date: 2024-03-22
+Laps: 61
+Lap Distance (km): 5.412
+End Positions:
+1. Sergio Pérez
+2. Guanyu Zhou
+3. Carlos Sainz
+4. Franco Colapinto
+5. Liam Lawson
+6. Pierre Gasly
+7. George Russell
+8. Valtteri Bottas
+9. Nico Hulkenberg
+10. Max Verstappen
+
+Race: Aintree Circuit (United Kingdom)
+Date: 2024-11-11
+Laps: 56
+Lap Distance (km): 4.828
+End Positions:
+1. Valtteri Bottas
+2. Guanyu Zhou
+3. Lando Norris
+4. Lewis Hamilton
+5. Franco Colapinto
+6. George Russell
+7. Carlos Sainz
+8. Lance Stroll
+9. Oscar Piastri
+10. Pierre Gasly
+
+Race: Yas Marina Circuit (United Arab Emirates)
+Date: 2024-07-27
+Laps: 66
+Lap Distance (km): 5.554
+End Positions:
+1. Lando Norris
+2. Yuki Tsunoda
+3. Kevin Magnussen
+4. Max Verstappen
+5. Oscar Piastri
+6. Pierre Gasly
+7. Nico Hulkenberg
+8. Lance Stroll
+9. Esteban Ocon
+10. Sergio Pérez
+
+Race: Yas Marina Circuit (United Arab Emirates)
+Date: 2024-07-13
+Laps: 55
+Lap Distance (km): 5.554
+End Positions:
+1. Esteban Ocon
+2. Alex Albon
+3. Carlos Sainz
+4. Lando Norris
+5. Kevin Magnussen
+6. Lance Stroll
+7. Franco Colapinto
+8. Sergio Pérez
+9. Nico Hulkenberg
+10. Liam Lawson
+
+Race: Monjuic Circuit (Spain)
+Date: 2024-08-13
+Laps: 58
+Lap Distance (km): 3.79
+End Positions:
+1. Lance Stroll
+2. Pierre Gasly
+3. Sergio Pérez
+4. Esteban Ocon
+5. Liam Lawson
+6. Max Verstappen
+7. Nico Hulkenberg
+8. Yuki Tsunoda
+9. Lando Norris
+10. Kevin Magnussen
+
+Race: Morocco Circuit (Morocco)
+Date: 2024-08-17
+Laps: 57
+Lap Distance (km): 7.618
+End Positions:
+1. Yuki Tsunoda
+2. Liam Lawson
+3. Alex Albon
+4. Franco Colapinto
+5. Pierre Gasly
+6. Carlos Sainz
+7. Esteban Ocon
+8. Lewis Hamilton
+9. Guanyu Zhou
+10. Charles Leclerc
+
+Race: Zandvoort Circuit (Netherlands)
+Date: 2024-11-09
+Laps: 65
+Lap Distance (km): 4.259
+End Positions:
+1. Lance Stroll
+2. Charles Leclerc
+3. Fernando Alonso
+4. Esteban Ocon
+5. Nico Hulkenberg
+6. Oscar Piastri
+7. Alex Albon
+8. Max Verstappen
+9. Guanyu Zhou
+10. Kevin Magnussen
+
+Race: AVUS Circuit (Germany)
+Date: 2024-09-14
+Laps: 59
+Lap Distance (km): 8.3
+End Positions:
+1. Valtteri Bottas
+2. Kevin Magnussen
+3. Lando Norris
+4. Max Verstappen
+5. Carlos Sainz
+6. Liam Lawson
+7. Oscar Piastri
+8. Pierre Gasly
+9. George Russell
+10. Charles Leclerc
+
+Race: East London Circuit (South Africa)
+Date: 2024-12-02
+Laps: 66
+Lap Distance (km): 4.003
+End Positions:
+1. Esteban Ocon
+2. Lance Stroll
+3. Fernando Alonso
+4. Valtteri Bottas
+5. Lando Norris
+6. Liam Lawson
+7. Nico Hulkenberg
+8. Lewis Hamilton
+9. Pierre Gasly
+10. Max Verstappen
+
+Race: Nivelles-Baulers Circuit (Belgium)
+Date: 2024-11-26
+Laps: 66
+Lap Distance (km): 3.724
+End Positions:
+1. Max Verstappen
+2. Liam Lawson
+3. Franco Colapinto
+4. Oscar Piastri
+5. Charles Leclerc
+6. Fernando Alonso
+7. Guanyu Zhou
+8. Lando Norris
+9. Valtteri Bottas
+10. Yuki Tsunoda
+
+Race: Sochi Autodrom (Russia)
+Date: 2024-09-16
+Laps: 78
+Lap Distance (km): 5.848
+End Positions:
+1. Fernando Alonso
+2. Lando Norris
+3. Kevin Magnussen
+4. Lewis Hamilton
+5. Lance Stroll
+6. Guanyu Zhou
+7. Valtteri Bottas
+8. George Russell
+9. Esteban Ocon
+10. Yuki Tsunoda
+
+Race: Reims-Gueux Circuit (France)
+Date: 2024-06-18
+Laps: 75
+Lap Distance (km): 8.301
+End Positions:
+1. Franco Colapinto
+2. Fernando Alonso
+3. Alex Albon
+4. Oscar Piastri
+5. Sergio Pérez
+6. Max Verstappen
+7. Lance Stroll
+8. Lewis Hamilton
+9. Lando Norris
+10. Nico Hulkenberg
+
+Race: Brands Hatch Circuit (United Kingdom)
+Date: 2024-08-27
+Laps: 75
+Lap Distance (km): 4.265
+End Positions:
+1. Kevin Magnussen
+2. Esteban Ocon
+3. Sergio Pérez
+4. Lando Norris
+5. Fernando Alonso
+6. Nico Hulkenberg
+7. Liam Lawson
+8. Lance Stroll
+9. Franco Colapinto
+10. Guanyu Zhou
+
+Race: Buddh International Circuit (India)
+Date: 2024-01-27
+Laps: 77
+Lap Distance (km): 5.125
+End Positions:
+1. Liam Lawson
+2. Lewis Hamilton
+3. Sergio Pérez
+4. Nico Hulkenberg
+5. Kevin Magnussen
+6. Lando Norris
+7. Esteban Ocon
+8. Lance Stroll
+9. Guanyu Zhou
+10. Fernando Alonso
+
+Race: Nivelles-Baulers Circuit (Belgium)
+Date: 2024-11-09
+Laps: 59
+Lap Distance (km): 3.724
+End Positions:
+1. Guanyu Zhou
+2. Valtteri Bottas
+3. Fernando Alonso
+4. Liam Lawson
+5. Franco Colapinto
+6. Lando Norris
+7. Charles Leclerc
+8. Max Verstappen
+9. Nico Hulkenberg
+10. George Russell
+
+Race: Okayama International Circuit (Japan)
+Date: 2024-12-15
+Laps: 53
+Lap Distance (km): 3.703
+End Positions:
+1. Valtteri Bottas
+2. Alex Albon
+3. Franco Colapinto
+4. Lance Stroll
+5. Liam Lawson
+6. Charles Leclerc
+7. Oscar Piastri
+8. Esteban Ocon
+9. Lando Norris
+10. Fernando Alonso
+
+Race: Indianapolis Motor Speedway (United States)
+Date: 2024-10-16
+Laps: 57
+Lap Distance (km): 4.023
+End Positions:
+1. Yuki Tsunoda
+2. George Russell
+3. Charles Leclerc
+4. Liam Lawson
+5. Valtteri Bottas
+6. Lando Norris
+7. Lance Stroll
+8. Pierre Gasly
+9. Guanyu Zhou
+10. Franco Colapinto
+
+Race: Dijon-Prenois Circuit (France)
+Date: 2024-03-02
+Laps: 62
+Lap Distance (km): 3.801
+End Positions:
+1. Lance Stroll
+2. Lewis Hamilton
+3. Alex Albon
+4. Sergio Pérez
+5. Max Verstappen
+6. Liam Lawson
+7. Carlos Sainz
+8. Fernando Alonso
+9. Esteban Ocon
+10. Guanyu Zhou
+
+Race: Zeltweg Airfield (Austria)
+Date: 2024-01-15
+Laps: 69
+Lap Distance (km): 3.2
+End Positions:
+1. Max Verstappen
+2. Liam Lawson
+3. Charles Leclerc
+4. Lance Stroll
+5. Valtteri Bottas
+6. Franco Colapinto
+7. Lewis Hamilton
+8. Yuki Tsunoda
+9. Sergio Pérez
+10. Fernando Alonso
+
+Race: Suzuka Circuit (Japan)
+Date: 2024-10-18
+Laps: 58
+Lap Distance (km): 5.807
+End Positions:
+1. Franco Colapinto
+2. Liam Lawson
+3. Kevin Magnussen
+4. Yuki Tsunoda
+5. Oscar Piastri
+6. Esteban Ocon
+7. Fernando Alonso
+8. Lewis Hamilton
+9. Alex Albon
+10. Lance Stroll
+
+Race: Brands Hatch Circuit (United Kingdom)
+Date: 2024-03-25
+Laps: 67
+Lap Distance (km): 4.265
+End Positions:
+1. Valtteri Bottas
+2. Max Verstappen
+3. Yuki Tsunoda
+4. Oscar Piastri
+5. Charles Leclerc
+6. Sergio Pérez
+7. Lando Norris
+8. Esteban Ocon
+9. Lewis Hamilton
+10. Lance Stroll
+
+Race: Silverstone Circuit (United Kingdom)
+Date: 2024-03-21
+Laps: 77
+Lap Distance (km): 5.891
+End Positions:
+1. Charles Leclerc
+2. Franco Colapinto
+3. Yuki Tsunoda
+4. Esteban Ocon
+5. George Russell
+6. Sergio Pérez
+7. Alex Albon
+8. Lewis Hamilton
+9. Kevin Magnussen
+10. Lando Norris
+
+Race: Dijon-Prenois Circuit (France)
+Date: 2024-03-02
+Laps: 75
+Lap Distance (km): 3.801
+End Positions:
+1. Oscar Piastri
+2. Lance Stroll
+3. Valtteri Bottas
+4. Max Verstappen
+5. Pierre Gasly
+6. Sergio Pérez
+7. Fernando Alonso
+8. Franco Colapinto
+9. Yuki Tsunoda
+10. Liam Lawson
+

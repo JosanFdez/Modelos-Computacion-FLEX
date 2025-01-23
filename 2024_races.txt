@@ -1,0 +1,111 @@
+Race: Sakhir (Bahrain)
+Date: 2024-03-03
+Laps: 57
+Lap Distance (km): 5.412
+End Positions:
+1. Max Verstappen
+2. Charles Leclerc
+3. Sergio Pérez
+4. Carlos Sainz
+5. Lewis Hamilton
+6. Fernando Alonso
+7. George Russell
+8. Esteban Ocon
+9. Lando Norris
+10. Nico Hulkenberg
+
+Race: Jeddah (Saudi Arabia)
+Date: 2024-03-17
+Laps: 50
+Lap Distance (km): 6.175
+End Positions:
+1. Max Verstappen
+2. Lewis Hamilton
+3. Charles Leclerc
+4. George Russell
+5. Fernando Alonso
+6. Sergio Pérez
+7. Carlos Sainz
+8. Lando Norris
+9. Oscar Piastri
+10. Nico Hulkenberg
+
+Race: Albert Park (Australia)
+Date: 2024-03-31
+Laps: 58
+Lap Distance (km): 5.303
+End Positions:
+1. Lewis Hamilton
+2. George Russell
+3. Max Verstappen
+4. Fernando Alonso
+5. Charles Leclerc
+6. Sergio Pérez
+7. Carlos Sainz
+8. Esteban Ocon
+9. Lando Norris
+10. Oscar Piastri
+
+Race: Shanghai (China)
+Date: 2024-04-14
+Laps: 56
+Lap Distance (km): 5.451
+End Positions:
+1. Sergio Pérez
+2. Max Verstappen
+3. Charles Leclerc
+4. Lewis Hamilton
+5. George Russell
+6. Fernando Alonso
+7. Carlos Sainz
+8. Esteban Ocon
+9. Lando Norris
+10. Nico Hulkenberg
+
+Race: Miami (United States)
+Date: 2024-04-28
+Laps: 57
+Lap Distance (km): 5.412
+End Positions:
+1. Charles Leclerc
+2. Max Verstappen
+3. Sergio Pérez
+4. Lewis Hamilton
+5. George Russell
+6. Fernando Alonso
+7. Carlos Sainz
+8. Esteban Ocon
+9. Lando Norris
+10. Oscar Piastri
+
+Race: Imola (Italy)
+Date: 2024-05-12
+Laps: 63
+Lap Distance (km): 4.909
+End Positions:
+1. Max Verstappen
+2. Sergio Pérez
+3. Lewis Hamilton
+4. George Russell
+5. Charles Leclerc
+6. Fernando Alonso
+7. Carlos Sainz
+8. Esteban Ocon
+9. Lando Norris
+10. Nico Hulkenberg
+
+Race: Monaco (Monaco)
+Date: 2024-05-26
+Laps: 78
+Lap Distance (km): 3.337
+End Positions:
+1. Fernando Alonso
+2. Max Verstappen
+3. Lewis Hamilton
+4. Sergio Pérez
+5. Charles Leclerc
+6. George Russell
+7. Carlos Sainz
+8. Esteban Ocon
+9. Lando Norris
+10. Oscar Piastri
